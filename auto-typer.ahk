@@ -1,7 +1,7 @@
 /*
  Name: Auto-Typer
  Version: 2022.06.04
- Nameswpace: https://www.holygeek.com
+ Namespace: https://www.holygeek.com
  Description: Automatically sends messages to apps like Discord.
  Notes:
   Set message in line 13.
