@@ -1,8 +1,8 @@
-; @name			Auto-Typer
+; @name		Auto-Typer
 ; @namespace	https://www.holygeek.com/
-; @version		2022.06.04
+; @version	2022.06.04
 ; @description	Automatically sends messages to apps like Discord.
-; @notes		Set delay between messages (in milliseconds) in line 8. Set message in line 9.
+; @notes	Set delay between messages (in milliseconds) in line 8. Set message in line 9.
 
 #singleInstance force 
 delay = 61000
