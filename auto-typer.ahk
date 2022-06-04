@@ -29,5 +29,4 @@ notify(alert, status = 0) {
 	opacity = 0 
 	sleep 775  ; Maintain notification 
 	gui destroy 
-} 
-
+}
